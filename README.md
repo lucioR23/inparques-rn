@@ -19,6 +19,7 @@ simulada, sin backend), tal como permite la evaluación.
 - Antony Rodriguez — C.I. 30.803.004
 - Sección: **IN3113**
 
+- Repositorio: [Inparques Lara](https://github.com/lucioR23/inparques-rn)
 ---
 
 ## 1. Tecnologías utilizadas
