@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Inparques Lara",
+    "slug": "inparques-rn",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "com.inparques.rn"
+    },
+    "ios": {
+      "bundleIdentifier": "com.inparques.rn"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-asset",
+      "expo-status-bar",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/inparques-logo.png",
+          "backgroundColor": "#1B4332",
+          "imageWidth": 200
+        }
+      ]
+    ]
+  }
+}
